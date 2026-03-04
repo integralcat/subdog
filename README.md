@@ -2,6 +2,9 @@
 
 `subdog` resolves `A` records for candidate subdomains under a parent domain.
 
+<img width="1458" height="911" alt="image" src="https://github.com/user-attachments/assets/cfc2daa0-75dd-4f79-bfb0-8089e0bfa9f4" />
+
+
 ## Install
 
 Python: `>= 3.11`
